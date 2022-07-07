@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utrzymanie Ruchu - APP Niepruszewo v2", "Utrzymanie Ruchu - APP Niepruszewo v2.csproj", "{F36F3FF3-013E-4EE1-A62F-32DA4737B097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36F3FF3-013E-4EE1-A62F-32DA4737B097}.Debug|x86.ActiveCfg = Debug|x86
+		{F36F3FF3-013E-4EE1-A62F-32DA4737B097}.Debug|x86.Build.0 = Debug|x86
+		{F36F3FF3-013E-4EE1-A62F-32DA4737B097}.Release|x86.ActiveCfg = Release|x86
+		{F36F3FF3-013E-4EE1-A62F-32DA4737B097}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3388D69-F5CA-44E2-A218-C25D0F95E013}
+	EndGlobalSection
+EndGlobal
